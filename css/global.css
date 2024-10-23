@@ -23,7 +23,6 @@ body {
     font-family: Arial, sans-serif;
     background-color: var(--background-color);
     color: var(--text-color);
-    padding: 20px;
 }
 
 header {
@@ -162,10 +161,8 @@ footer {
     background-color: var(--secondary-color);  
     color: #fff; 
     text-align: center;
-    padding: 20px; 
-    margin-top: 20px; 
-    width: 100%; /* Garante que o rodapé ocupe toda a largura */
-    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra sutil */
+    width: 100%;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); 
 }
 
 footer p {
